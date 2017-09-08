@@ -1,0 +1,3 @@
+###### Debian ports repos for powerpcspe
+deb [arch=powerpcspe] http://ftp.ports.debian.org/debian-ports/ unstable main
+deb [arch=powerpcspe] http://ftp.ports.debian.org/debian-ports/ unreleased main
